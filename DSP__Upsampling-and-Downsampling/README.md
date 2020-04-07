@@ -1,3 +1,4 @@
-# Digital-Signal-Processing----Upsampling-and-Downsampling
+### DSP with MATLAB - Resampling signals with upsampling and downsampling
 
-Read the three sections linked within the instructional PDF for information regarding theoretical background on downsampling, upsampling and resampling.
+Utilizing functions for upsampling and downsampling allows us to effectively resample a signal by any floating value.
+

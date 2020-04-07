@@ -1,2 +1,2 @@
-# Digital-Signal-Processing----Spectral-Analysis
-The goal of this investigation is to develop a system to decode DTMF tones.
+### DSP with MATLAB - Spectral-Analysis
+The goal is to develop a system for decoding DTMF tones.
